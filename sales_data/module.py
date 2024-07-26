@@ -26,7 +26,6 @@ def read_sales_data(file_path: str) -> list:
             }
             sales_data.append(row)
 
-    print(sales_data)
     return sales_data
 
 
@@ -46,7 +45,6 @@ def total_sales_per_product(sales_data: list) -> dict:
         else:
             total_sales[product_name] = price * quantity
 
-    print(total_sales)
     return total_sales
 
 
@@ -66,7 +64,6 @@ def sales_over_time(sales_data: list) -> dict:
         else:
             sales_over_time[product_name] = price * quantity
 
-    print(sales_over_time)
     return sales_over_time
 
 
