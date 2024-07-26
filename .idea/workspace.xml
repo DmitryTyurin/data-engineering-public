@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="fix gitignore" />
+    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="fix gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,8 @@
       <workItem from="1721857870939" duration="4000" />
       <workItem from="1721857939045" duration="157000" />
       <workItem from="1721858225573" duration="331000" />
+      <workItem from="1721858685707" duration="168000" />
+      <workItem from="1721987769485" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="Add dag for cism">
       <option name="closed" value="true" />
@@ -60,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721858546375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix gitignore">
+      <option name="closed" value="true" />
+      <created>1721858841427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721858841427</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
