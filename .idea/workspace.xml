@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="Add pyspark project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyspark_data/weather_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark_data/weather_data.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="Add pyspark project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +95,7 @@
       <workItem from="1721858685707" duration="168000" />
       <workItem from="1721987769485" duration="630000" />
       <workItem from="1722002861177" duration="3042000" />
-      <workItem from="1722807034493" duration="2380000" />
+      <workItem from="1722807034493" duration="2763000" />
     </task>
     <task id="LOCAL-00001" summary="Add dag for cism">
       <option name="closed" value="true" />
@@ -164,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722810125985</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add pyspark project">
+      <option name="closed" value="true" />
+      <created>1722812332825</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722812332825</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add pyspark project">
+      <option name="closed" value="true" />
+      <created>1722812440326</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722812440326</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
