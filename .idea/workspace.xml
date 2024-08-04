@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="sales_data">
+    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="Fix sales_data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sales_data/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/sales_data/module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sales_data/sales data.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,7 +79,7 @@
       <workItem from="1721858225573" duration="331000" />
       <workItem from="1721858685707" duration="168000" />
       <workItem from="1721987769485" duration="630000" />
-      <workItem from="1722002861177" duration="307000" />
+      <workItem from="1722002861177" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="Add dag for cism">
       <option name="closed" value="true" />
@@ -111,16 +113,25 @@
       <option name="project" value="LOCAL" />
       <updated>1722003013925</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix sales_data">
+      <option name="closed" value="true" />
+      <created>1722003426908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722003426908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add dag for cism" />
     <MESSAGE value="fix gitignore" />
     <MESSAGE value="sales_data" />
-    <option name="LAST_COMMIT_MESSAGE" value="sales_data" />
+    <MESSAGE value="Fix sales_data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix sales_data" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/data_engineering_public$sales_data.coverage" NAME="sales data Coverage Results" MODIFIED="1722003086115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_data" />
+    <SUITE FILE_PATH="coverage/data_engineering_public$sales_data.coverage" NAME="sales data Coverage Results" MODIFIED="1722003390863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_data" />
   </component>
 </project>

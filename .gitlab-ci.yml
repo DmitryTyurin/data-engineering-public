@@ -1,0 +1,21 @@
+stages:
+ - deploy
+
+deploy:
+  stage: deploy
+  tags:
+   - dags
+  before_script:
+    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+  script:
+      - rsync -e 'ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null'
+        -avrz --perms --chmod=u+rwx,g+rwx,o+rwx 
+        --exclude ".gitignore" --exclude "*.yml" --exclude "*.md" --exclude "*.txt" --exclude ".git" --exclude "__*"
+        --delete ./ $USERNAME@$HOST:/ssd/airflow/dags
+  only:
+      - dev
+  when: manual
