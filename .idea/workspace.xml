@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="Fix sales_data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dad28f67-e3ae-4caf-ba2e-8bea5357f358" name="Changes" comment="Add pyspark project">
+      <change beforePath="$PROJECT_DIR$/pyspark_data/weather_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark_data/weather_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales_data/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/sales_data/module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,11 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dwtyu\PycharmProjects\GitHub\data-engineering-public\pyspark_data" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="sales data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data-engineering-public" />
@@ -80,6 +86,7 @@
       <workItem from="1721858685707" duration="168000" />
       <workItem from="1721987769485" duration="630000" />
       <workItem from="1722002861177" duration="3042000" />
+      <workItem from="1722807034493" duration="833000" />
     </task>
     <task id="LOCAL-00001" summary="Add dag for cism">
       <option name="closed" value="true" />
@@ -121,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722003426908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add pyspark project">
+      <option name="closed" value="true" />
+      <created>1722807163432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722807163432</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,7 +144,8 @@
     <MESSAGE value="fix gitignore" />
     <MESSAGE value="sales_data" />
     <MESSAGE value="Fix sales_data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix sales_data" />
+    <MESSAGE value="Add pyspark project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pyspark project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_engineering_public$sales_data.coverage" NAME="sales data Coverage Results" MODIFIED="1722003390863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_data" />

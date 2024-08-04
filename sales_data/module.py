@@ -12,9 +12,9 @@ def read_sales_data(file_path: str) -> list:
     sales_data = []
 
     with open(
-            file_path,
-            mode="r",
-            encoding="utf-8-sig",
+        file_path,
+        mode="r",
+        encoding="utf-8-sig",
     ) as file:
         fieldnames = ["product_name", "quantity", "price", "date"]
         reader = csv.DictReader(file, fieldnames=fieldnames)
