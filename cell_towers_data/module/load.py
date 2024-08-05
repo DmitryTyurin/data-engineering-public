@@ -3,7 +3,7 @@ import clickhouse_connect
 import time
 import shutil
 
-from airflow_dag_for_cism.module.config import (
+from cell_towers_data.module.config import (
     CLICKHOUSE_HOST,
     CLICKHOUSE_PORT,
     CLICKHOUSE_DATABASE,

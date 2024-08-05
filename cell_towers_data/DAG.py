@@ -1,4 +1,4 @@
-from airflow_dag_for_cism.ETL import ETL
+from cell_towers_data.ETL import ETL
 
 from datetime import datetime, timedelta
 

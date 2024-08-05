@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import glob
-from airflow_dag_for_cism.module.config import (
+from cell_towers_data.module.config import (
     URL_DATASET,
     PATH,
     PATH_TO_FILE,
@@ -10,9 +10,9 @@ from airflow_dag_for_cism.module.config import (
     MCC_LIST,
     CLICKHOUSE_TABLE,
 )
-from airflow_dag_for_cism.module.extract import get_dataset_from_url
-from airflow_dag_for_cism.module.transform import transform_dataset
-from airflow_dag_for_cism.module.load import (
+from cell_towers_data.module.extract import get_dataset_from_url
+from cell_towers_data.module.transform import transform_dataset
+from cell_towers_data.module.load import (
     get_clickhouse_connection,
     load_dataset,
     delete_folder,
