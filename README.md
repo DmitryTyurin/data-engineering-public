@@ -10,8 +10,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitryTyurin)](https://github.com/DmitryTyurin/github-profile-trophy)
 <br>
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryTyurin&theme=apprentice)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryTyurin&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryTyurin&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryTyurin&theme=apprentice)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryTyurin&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryTyurin&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitryTyurin&theme=apprentice&utcOffset=3)
