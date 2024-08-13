@@ -1,5 +1,4 @@
-<img src="https://avatars.mds.yandex.net/i?id=b9963cdb44d62f5d03a1bb79857ffc4c_l-5285341-images-thumbs&n=13" height="auto" width="350" style="border-radius:50% 20% / 10% 40%;"></a>
-
+![ETL](https://www.fajarmag.com/wp-content/uploads/2022/02/fp-graph-dataeng.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)](https://git.io/typing-svg)
 <br>
 ##### 🚩 Я являюсь специалистом в области инженерии данных и 📚 активно изучаю передовые инструменты и методы для работы с большими данными 🇧🇮🇬 🇩🇦🇹🇦. 
