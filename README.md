@@ -1,11 +1,13 @@
+<img src="https://avatars.mds.yandex.net/i?id=b9963cdb44d62f5d03a1bb79857ffc4c_l-5285341-images-thumbs&n=13" height="auto" width="350" style="border-radius:50% 20% / 10% 40%;"></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Всем+привет👋+My+Data+Engineering🔋)](https://git.io/typing-svg)
 <br>
 ##### 🚩 Я являюсь специалистом в области инженерии данных и 📚 активно изучаю передовые инструменты и методы для работы с большими данными 🇧🇮🇬 🇩🇦🇹🇦. 
-##### 🎯 Моя цель - использовать свой опыт и знания для создания инновационных решений в этой области. 
+##### 🎯 Моя цель - использовать свой опыт и знания для создания решений в этой области. 
 ##### 💾 Здесь будут представлены мои небольшие проекты по работе с данными. <br><br>
 
 ##### 🚩 I am a data engineering specialist and 📚 actively explore cutting-edge tools and methods for working with 🇧🇮🇬 🇩🇦🇹🇦. 
-##### 🎯 My goal is to use my expertise and knowledge to create innovative solutions in this field. 
+##### 🎯 My goal is to use my expertise and knowledge to create solutions in this field. 
 ##### 💾 Here will be presented my small projects on working with 🇧🇮🇬 🇩🇦🇹🇦. <br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitryTyurin)](https://github.com/DmitryTyurin/github-profile-trophy)
