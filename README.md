@@ -1,4 +1,4 @@
-![ETL](https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg)
+![ETL](https://www.future-processing.com/blog/wp-content/uploads/2021/08/fp-graph-dataeng.jpg)
 ### 👋 Всем привет! 👨‍💻 Data Engineering
 ##### 🚩 Я являюсь специалистом в области инженерии данных и 📚 активно изучаю передовые инструменты и методы для работы с большими данными 🇧🇮🇬 🇩🇦🇹🇦. 
 ##### 🎯 Моя цель - использовать свой опыт и знания для создания инновационных решений в этой области. 
