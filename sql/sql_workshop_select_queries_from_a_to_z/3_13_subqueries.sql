@@ -110,3 +110,4 @@ WHERE
     media_type = 'text'
     AND group_id = 11
 ORDER BY created_at;
+

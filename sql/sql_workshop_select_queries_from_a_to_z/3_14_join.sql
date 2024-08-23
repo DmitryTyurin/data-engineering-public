@@ -72,3 +72,5 @@ from group_messages gm
 where gm.media_type = 'text'
     and gm.group_id = 11
 order by gm.created_at;
+
+
