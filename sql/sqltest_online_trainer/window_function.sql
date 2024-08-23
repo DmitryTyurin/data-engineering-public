@@ -62,3 +62,4 @@ FROM
 WHERE
     EXTRACT(MONTH FROM p.payment_date) = 8 AND
     EXTRACT(YEAR FROM p.payment_date) = 2005;
+
